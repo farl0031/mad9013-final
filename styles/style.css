@@ -1,0 +1,54 @@
+/*!
+
+Colors
+Light Blue: #4FAEFF;
+Dark Blue: #0275D8;
+White: #F0F0F0;
+
+Fonts
+Roboto - Sans-serif
+Droid - Serif
+Helvetica - Bootstrap original
+
+*/
+
+body
+{
+	font-family: "Roboto", "Helvetica Neue", Helvetica, Sans-serif;
+	background-color: #4FAEFF;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: "Droid Serif", Times, Serif;	
+}
+
+
+form label
+{
+	padding-left:5px;	
+}
+
+.mainContent
+{
+	padding-top:1rem;
+	border:0.95rem solid #4FAEFF;
+	border-radius:1.25rem;
+	background-color: #F0F0F0;
+}
+
+.card-border-color
+{
+	border-color: #0275D8;
+	border-width: 0.2rem;
+}
+
+.mainBackground
+{
+	background-color:#4FAEFF;
+}
+
+.card img
+{
+	width:100%;	
+}
